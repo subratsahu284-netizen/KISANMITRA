@@ -1,0 +1,177 @@
+{
+  "scans": [
+    {
+      "vegetable": "Tomato",
+      "variety": "Pusa Ruby",
+      "stage": "Fruit development",
+      "problemType": "disease",
+      "problemName": "Early Blight (Alternaria solani)",
+      "severity": "Moderate to Severe",
+      "confidence": 88,
+      "symptoms": "Concentric dark-brown target-board rings on lower mature leaves, surrounded by yellow chlorotic halos.",
+      "remedies": [
+        {
+          "category": "cultural",
+          "title": "Remove Lower Infected Foliage",
+          "instructions": "Clip off infected lower leaves using sanitized pruning shears. Never throw infected leaves in compost heap."
+        },
+        {
+          "category": "organic",
+          "title": "Trichoderma viride & Neem Oil Spray",
+          "instructions": "Apply cold pressed neem oil (3000 ppm) with mild soap emulsifier or spray Trichoderma viride culture.",
+          "dosage": "5 ml / Liter water"
+        },
+        {
+          "category": "chemical",
+          "title": "Mancozeb or Chlorothalonil",
+          "instructions": "Foliar spray of Mancozeb 75% WP or Azoxystrobin 23% SC on clear, dry mornings.",
+          "dosage": "2.5g / Liter water"
+        }
+      ],
+      "notes": "hi hello it has black spots in",
+      "imageUrl": "data:image/avif;base64,AAAAHGZ0eXBhdmlmAAAAAG1pZjFhdmlmbWlhZgAAANZtZXRhAAAAAAAAACFoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAAAAAAA5waXRtAAAAAAABAAAAImlsb2MAAAAAREAAAQABAAAAAAD6AAEAAAAAAAARNAAAACNpaW5mAAAAAAABAAAAFWluZmUCAAAAAAEAAGF2MDEAAAAAVmlwcnAAAAA4aXBjbwAAAAxhdjFDgQEMAAAAABRpc3BlAAAAAAAAAnIAAAGhAAAAEHBpeGkAAAAAAwgICAAAABZpcG1hAAAAAAAAAAEAAQOBAgMAABE8bWRhdBIACgoYZicdAwQENBoQMqMiRFAAQQQQULSjcLvTLiMaI...",
+      "farmerName": "Ramesh Patel",
+      "location": "Sambalpur, Odisha",
+      "id": "scan_1793944964699_dp1l",
+      "createdAt": "2026-11-06T06:02:44.699Z"
+    },
+    {
+      "id": "scan_001",
+      "createdAt": "2026-11-04T05:27:43.563Z",
+      "vegetable": "Tomato",
+      "variety": "Hybrid Shivam",
+      "stage": "Flowering",
+      "problemType": "disease",
+      "problemName": "Early Blight (Alternaria solani)",
+      "severity": "Moderate",
+      "confidence": 88,
+      "symptoms": "Concentric dark brown target-board rings on lower mature foliage with chlorotic yellow halo.",
+      "remedies": [
+        {
+          "category": "cultural",
+          "title": "Prune Lower Foliage",
+          "instructions": "Carefully prune infected bottom 2-3 leaf branches. Sterilize shears with 70% alcohol and burn or bury infected residue away from compost."
+        },
+        {
+          "category": "organic",
+          "title": "Neem & Trichoderma Spray",
+          "instructions": "Spray Trichoderma viride (10g/L) or cold-pressed Neem Oil (5ml/L) emulsified with mild soap every 7 days.",
+          "dosage": "5ml neem oil / Liter water"
+        },
+        {
+          "category": "chemical",
+          "title": "Fungicidal Protection",
+          "instructions": "Apply Mancozeb 75% WP or Copper Oxychloride 50% WP during a dry morning window.",
+          "dosage": "2.5g / Liter water"
+        }
+      ],
+      "notes": "Noticed concentric rings after continuous rainy spell in Sambalpur.",
+      "farmerName": "Ramesh Patel",
+      "location": "Sambalpur, Odisha"
+    },
+    {
+      "id": "scan_002",
+      "createdAt": "2026-11-01T05:27:43.564Z",
+      "vegetable": "Chilli",
+      "variety": "G4 Dry Red",
+      "stage": "Vegetative growth",
+      "problemType": "deficiency",
+      "problemName": "Magnesium (Mg) Deficiency",
+      "severity": "Mild to Moderate",
+      "confidence": 82,
+      "symptoms": "Interveinal chlorosis on older mature leaves; leaf veins remain green while leaf lamina turns yellow.",
+      "remedies": [
+        {
+          "category": "chemical",
+          "title": "Magnesium Sulfate Foliar Spray",
+          "instructions": "Dissolve Agricultural grade Epsom Salt (Magnesium Sulphate MgSO4) in water and spray on foliage early morning.",
+          "dosage": "5g / Liter water (0.5% solution)"
+        },
+        {
+          "category": "organic",
+          "title": "Dolomite Lime Soil Incorporation",
+          "instructions": "Broadcast powdered dolomite lime around root zones to balance soil pH and supply slow-release magnesium and calcium.",
+          "dosage": "50-100 kg / acre"
+        }
+      ],
+      "notes": "Leaves showed pale yellowing between green veins after heavy irrigation.",
+      "farmerName": "Ramesh Patel",
+      "location": "Sambalpur, Odisha"
+    },
+    {
+      "id": "scan_003",
+      "createdAt": "2026-10-28T05:27:43.564Z",
+      "vegetable": "Potato",
+      "variety": "Kufri Jyoti",
+      "stage": "Tuber initiation",
+      "problemType": "deficiency",
+      "problemName": "Potassium (K) Deficiency",
+      "severity": "Moderate",
+      "confidence": 85,
+      "symptoms": "Marginal browning and leaf tip scorch on older leaves; curling of leaf margins downwards.",
+      "remedies": [
+        {
+          "category": "organic",
+          "title": "Hardwood Ash or Bio-Potash",
+          "instructions": "Apply hardwood wood ash or potash mobilizing bacteria (KMB) near the root zone.",
+          "dosage": "2 kg KMB biofertilizer / acre"
+        },
+        {
+          "category": "chemical",
+          "title": "Sulphate of Potash (SOP 0:0:50)",
+          "instructions": "Apply 00:00:50 foliar spray to rapidly restore potassium reserves without adding unwanted chloride.",
+          "dosage": "8-10g / Liter water"
+        }
+      ],
+      "notes": "Brown edges around leaf margins.",
+      "farmerName": "Ramesh Patel",
+      "location": "Sambalpur, Odisha"
+    }
+  ],
+  "profile": {
+    "id": "farmer_01",
+    "fullName": "Ramesh Patel",
+    "phone": "+91 98452 71023",
+    "village": "Khetrajpur",
+    "district": "Sambalpur",
+    "state": "Odisha",
+    "landSize": 3.5,
+    "landUnit": "acres",
+    "mainCrop": "Tomato (Hybrid Shivam)",
+    "growthStage": "Flowering",
+    "avatarIcon": "🧑‍🌾",
+    "avatarColor": "#1d7a4a",
+    "weatherAlerts": true,
+    "mandiAlerts": true,
+    "diseaseAlerts": false,
+    "preferredLanguage": "en"
+  },
+  "mandiAlerts": [
+    {
+      "id": "al_01",
+      "crop": "Tomato",
+      "thresholdPrice": 2500,
+      "enabled": true
+    },
+    {
+      "id": "al_02",
+      "crop": "Chilli",
+      "thresholdPrice": 9000,
+      "enabled": true
+    }
+  ],
+  "expertMessages": [
+    {
+      "expertId": 1,
+      "sender": "user",
+      "text": "Can I spray today?",
+      "timestamp": "11:33 am"
+    },
+    {
+      "expertId": 1,
+      "sender": "expert",
+      "text": "Namaste! Based on our KVK field trials for Fungal & bacterial leaf diseases in solanaceous vegetables, please ensure adequate spacing between plants to enhance ventilation. If you observe leaf spotting or wilting, send a close-up photo and I will prescribe the exact corrective dosage.",
+      "timestamp": "11:33 am"
+    }
+  ]
+}

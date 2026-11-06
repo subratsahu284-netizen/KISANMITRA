@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+    color: #12392a;
+    background-color: #f3faf5;
+  }
+
+  body.modal-open {
+    overflow: hidden !important;
+    overscroll-behavior: none !important;
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Baloo 2', sans-serif;
+  }
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

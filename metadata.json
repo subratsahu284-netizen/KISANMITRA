@@ -1,0 +1,8 @@
+{
+  "name": "Remix KisanMitra AI – Multi-Language Crop Diagnosis \u0026 Decision Support",
+  "description": "AI-powered crop disease and nutrient deficiency diagnosis for 30+ vegetables with 30+ language translations, weather spray windows, mandi rates, scan history, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
